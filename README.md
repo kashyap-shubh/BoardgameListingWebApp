@@ -23,6 +23,8 @@ This web application displays lists of board games and their reviews. While anyo
 - Twitter Bootstrap
 - Maven
 
+#
+
 ## Features
 
 - Full-Stack Application
